@@ -1,0 +1,276 @@
+body {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(194, 194, 194);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+.gg{
+    background-color: rgb(243, 243, 243);
+    width: 1000px;
+    height: 120px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: flex;
+    border-radius: 100px; 
+
+}
+.maks_durachok
+{
+    margin-left: 25px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: 7px;
+    padding-top: 6px;
+    font-family: 'Rubik One', sans-serif;
+    font-size: 34px;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    
+    margin: 25px, 25px, 25px, 25px;
+    text-align: center;
+    color: rgb(65, 65, 65);
+  
+
+}
+.gg2
+{
+    background-color: rgb(238, 238, 238);
+    width: 298px;
+    height: 100px;
+    margin-left: 435px;
+    margin-right: auto;
+    padding-left: 4px;
+    display: flex;
+    border-radius: 100px;
+    margin-top: 15px;
+    transition: 0.3s;
+}
+
+.gg2:hover
+{
+    background-color: rgb(164, 164, 164);
+    transition: 0.3s;
+}
+
+a
+{
+    text-decoration: none;
+}
+.glavnaya
+{
+    background-color: grey;
+    padding-top: 13px;
+    padding: 15px;
+    padding-right: 15px;
+
+    font-size: 70px;
+    font-family: Arial;
+     display: inline;
+    box-shadow: 0px 0 0 #414040, 0px 0 0 #414040;
+    border-radius: 40px;}
+.headGeneral
+{
+margin: 50px;
+    text-align: center;
+    color: rgb(65, 65, 65);
+}
+
+.zdkbfjbfsdKJ
+{
+    font-family: 'Impact', sans-serif;
+    font-size: 40px;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    
+}
+.imgHead1
+{
+    border-radius: 100px; 
+    width: 120px;
+    height: 120px;
+    padding-left: 3px;
+}
+.imgHead2
+{
+   
+    
+    border-radius: 5px; 
+    width: 70px;
+    height: 70px;
+    display: flex;
+    padding-left: 10px;
+    padding-top: 13px;
+    
+}
+.back_ground
+{   padding-top: 30px;
+    margin-top: 20px;
+    text-align: center;
+    min-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #808080;
+    min-height: 100%;
+    border-radius: 90px;
+}
+
+#putin img
+{
+    margin-top: -22px;
+    border: solid rgb(48, 0, 0); 
+    margin-left: 10px;
+    margin-right: 15px;
+    width: 80px;
+    height: 80px;
+}
+
+.user h2{
+    color: black;
+    padding-top: 13px;
+    padding-bottom: 100px;
+    padding-right: 15px;
+    margin-top: -40px;
+    font-size: 70px;
+    font-family: Arial;
+     display: inline;
+	background-color: #424242;
+    box-shadow: 0px 0 0 #414040, 0px 0 0 #414040;
+    border-radius: 40px;
+	 
+}
+
+.user
+{
+     
+    padding-top: 40px;
+    background-color: #424242;
+    box-shadow: 0px 0 0 #414040, 0px 0 0 #414040;
+    border-radius: 40px;
+    height: 73px;
+    width: 25%;
+    padding-right: 20px;
+    margin-right: auto; 
+   
+    margin-left: 70px; 
+    display: flex;
+}
+/*.user:hover{
+   background-color: rgb(221, 220, 220);
+    box-shadow: 0px 0 0 rgb(221, 220, 220), 0px 0 0 rgb(221, 220, 220); 
+    transition: 1s;
+}*/
+
+.back_ground img
+{
+    border-radius: 100px;
+    width: 60%;
+    height:auto;
+}
+
+.back_ground h1
+{
+    
+    font-family:Impact;
+    font-size: 5em;
+    margin-bottom:0;
+    margin-top: 15px;
+}
+
+.back_ground p
+{
+    font-family:Arial;
+    font-size: 1.5em;
+    margin: 0;
+    width: 1130px;
+    margin-left:  50px;
+    padding-bottom: 15px;
+}
+.komm
+{
+    border-radius: 25px;
+    background-color: #424242;
+    text-align: center;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.komm button{
+    border: brown;
+    font-family:Impact;
+    font-size: 1.5em;
+    margin-bottom:0;
+    background-color: #424242;
+    border-radius: 25px;
+    width: 600px;
+    
+}
+.komm button:hover{
+      background-color: #808080;
+    transition: 0.3s;
+    
+}
+
+.primer{
+    margin-top: 20px;
+    padding-top: 15px;
+border-radius: 25px;
+    background-color: #424242;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+   
+}
+.primer img{
+    width: 100px;
+    height: 100px;
+    margin-left:15px;
+    border-radius: 100px;
+    margin-bottom: 15px;
+    
+     
+}
+.primer h1{
+    font-size: 50px;
+    text-align: left;
+    font-family:Impact;
+    width: 80px;
+    height: 50px;
+    margin-top: 25px;
+    margin-left: 15px; 
+    margin-right: 15px;
+}
+.primer div{
+    display: flex;
+     width: 100px;
+}
+
+.primer p1
+{
+    width: 100px;
+    font-family: Arial;
+    font-size: 30px;
+    
+}
+.primer button
+{
+ border: brown;
+    font-family:Impact;
+    font-size: 2em;
+    margin-bottom:0;
+    background-color: #424242;
+    border-radius: 25px;
+    width: 400px;
+    height: 70px;
+}
+.primer button:hover
+{
+ background-color: #808080;
+    transition: 0.3s;
+}
